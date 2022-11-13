@@ -52,10 +52,13 @@ Java VM
 
 Java Web
 典型的Java Web应用程序架构有四个层：客户层（Client），展示层（Presentation），服务/业务层（Service/Business）和数据层（Data）。
+
 ![img_1.png](img_1.png)
 
 Java部署
+
 ![img_2.png](img_2.png)
 
 JDK和JRE
+
 ![img_3.png](img_3.png)
